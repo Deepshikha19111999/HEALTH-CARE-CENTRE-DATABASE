@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rinky\\Documents\\GitHub\\HEALTH-CARE-CENTRE-DATABASE\\Heath_Care_Centre_Database\\Heath_Care_Centre_Database.csproj": {}
+    "C:\\Users\\HP\\Documents\\GitHub\\HEALTH-CARE-CENTRE-DATABASE\\Heath_Care_Centre_Database\\Heath_Care_Centre_Database.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rinky\\Documents\\GitHub\\HEALTH-CARE-CENTRE-DATABASE\\Heath_Care_Centre_Database\\Heath_Care_Centre_Database.csproj": {
+    "C:\\Users\\HP\\Documents\\GitHub\\HEALTH-CARE-CENTRE-DATABASE\\Heath_Care_Centre_Database\\Heath_Care_Centre_Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rinky\\Documents\\GitHub\\HEALTH-CARE-CENTRE-DATABASE\\Heath_Care_Centre_Database\\Heath_Care_Centre_Database.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\HEALTH-CARE-CENTRE-DATABASE\\Heath_Care_Centre_Database\\Heath_Care_Centre_Database.csproj",
         "projectName": "Heath_Care_Centre_Database",
-        "projectPath": "C:\\Users\\rinky\\Documents\\GitHub\\HEALTH-CARE-CENTRE-DATABASE\\Heath_Care_Centre_Database\\Heath_Care_Centre_Database.csproj",
-        "packagesPath": "C:\\Users\\rinky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rinky\\Documents\\GitHub\\HEALTH-CARE-CENTRE-DATABASE\\Heath_Care_Centre_Database\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\HEALTH-CARE-CENTRE-DATABASE\\Heath_Care_Centre_Database\\Heath_Care_Centre_Database.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\HEALTH-CARE-CENTRE-DATABASE\\Heath_Care_Centre_Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rinky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

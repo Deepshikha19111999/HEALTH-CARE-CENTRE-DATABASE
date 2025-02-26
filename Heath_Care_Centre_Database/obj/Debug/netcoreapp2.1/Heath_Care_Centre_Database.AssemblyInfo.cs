@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Heath_Care_Centre_Database")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9257215bcaafa8a17290be24cad6b1d619b74b2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab8276bba9b36f0e0de01a6cbd93aed570eb1fd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Heath_Care_Centre_Database")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Heath_Care_Centre_Database")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
